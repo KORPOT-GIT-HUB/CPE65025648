@@ -1,0 +1,18 @@
+h1,h2{
+    font-size: medium;
+    color: rgb(246, 244, 248);
+    margin-left: 320px;
+}
+
+p{
+    font-size: small;
+    color: rgb(247, 247, 247);
+    margin-left: 375px;
+}
+
+img{ 
+    height: 400px;
+    width: 440px;
+    margin-left: 250px;
+    border-radius: 30%;
+}
